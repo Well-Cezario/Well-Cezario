@@ -2,9 +2,9 @@
 
 ### Data Analytics | Business Intelligence | Business Analysis
 
-I'm a professional with a background in **Customer Support, Operations, and Support Management**, currently expanding my career into **Data Analytics, Business Intelligence, and Business Analysis**.
+I'm a professional with a background in **Customer Support, Operations, and Support Management**, specialist in  **Data Analytics, Business Intelligence, and Business Analysis**, currently expanding my career into **Data Science**.
 
-Throughout my career, I've worked in customer-facing and operational environments, developing a strong understanding of **business processes, performance management, stakeholder needs, and data-driven decision-making**. My experience supporting operations across the **Americas region** has given me a broad perspective on how data can be transformed into actionable insights to improve performance and business outcomes.
+Throughout my career, I've worked in customer-facing and operational environments, developing a strong understanding of **business processes, performance management, stakeholder needs, data-driven decision-making, and automation**. My experience supporting operations across the **Americas region** has given me a broad perspective on how data can be transformed into actionable insights to improve performance and business outcomes.
 
 ## What I'm focusing on
 
@@ -13,7 +13,7 @@ Throughout my career, I've worked in customer-facing and operational environment
 * Data visualization and storytelling
 * KPI & performance analysis
 * Process improvement
-* Operational reporting
+* Operational and Executive reporting
 * Dashboard development
 * Data-driven decision making
 * Stakeholder & business requirements analysis
@@ -22,25 +22,28 @@ Throughout my career, I've worked in customer-facing and operational environment
 
 **Data & Analytics**
 
-* SQL
 * Power BI
-* Excel
 * Python
+* Excel & Power Point
+* SQL
+* Exploratory Data Analysis (EDA)
+* Statistics (Descriptive &  Inferential)
 * Data Visualization
 * Data Cleaning & Transformation
 
 **Business & Operations**
 
+* Governance
 * KPI Management
 * Performance Analysis
 * Process Optimization
 * Requirements Gathering
 * Stakeholder Management
-* Customer Support Operations
+* Customer Support & Service Operations
 
 ## Professional Background
 
-My career started in **Customer Support**, where I developed strong communication, problem-solving, and customer relationship skills. Over time, I expanded my responsibilities into **operations and support management**, working with teams and stakeholders across the Americas.
+My career started in the frontline of **Customer Support**, where I developed strong communication, problem-solving, and customer relationship skills. Over time, I expanded my responsibilities into **operations and support management acting like a reference in Business Intelligence, Data Analysis and Automation**, supporting executive managers and stakeholders across the Americas.
 
 This experience shaped the way I approach analytics: I don't see data simply as numbers. I see it as a tool to **understand business problems, identify opportunities, improve processes, and support better decisions**.
 
